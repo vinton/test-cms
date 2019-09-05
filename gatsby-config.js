@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Webgaku',
     description:
-      'Webデザイナー・エンジニアのための情報サイト',
+      'Webデザイナー・エンジニアのためのチュートリアル・リファレンスサイト',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
