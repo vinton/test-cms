@@ -22,6 +22,7 @@ export const IndexPageTemplate = ({
       <div
         style={{
           display: 'flex',
+          width: '50vw',
           height: '150px',
           lineHeight: '1',
           justifyContent: 'space-around',
@@ -43,7 +44,7 @@ export const IndexPageTemplate = ({
           className="is-size-5-mobile is-size-5-tablet is-size-5-widescreen"
           style={{
             color: 'white',
-            lineHeight: '1',
+            lineHeight: '1.5',
             padding: '0.25em',
           }}
         >
