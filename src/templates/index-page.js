@@ -60,7 +60,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    最新チュートリアル
+                    New Tutorial
                   </h3>
                   <TutorialRoll />
                   <div className="column is-12 has-text-centered">
